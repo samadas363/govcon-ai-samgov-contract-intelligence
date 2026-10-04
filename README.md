@@ -6,9 +6,10 @@ GovCon AI is an automated Government Contract Intelligence System designed to di
 
 The system transforms government contracting data into actionable opportunity intelligence and Bid/No-Bid recommendations.
 
-## Project Architecture
 
-![GovCon AI Architecture](screenshots/architecture.png)
+### Project Architecture
+
+![GovCon AI Architecture](screenshots/GovCon%20AI%20Project%20Architecture.png)
 
 The system connects SAM.gov data ingestion, Python processing, Supabase/PostgreSQL, document intelligence, opportunity scoring, Google Sheets, n8n automation, and Gmail alerts.
 
