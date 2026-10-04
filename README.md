@@ -111,16 +111,20 @@ The system is designed to:
 ## Project Screenshots
 
 ### SAM.gov / Python Data Ingestion
-![SAM.gov Python](screenshots/samgov-python.png)
+
+<img src="screenshots/samgov-python.png" alt="SAM.gov Python Data Ingestion">
 
 ### Supabase / PostgreSQL Database
-![Supabase Database](screenshots/supabase-database.png)
+
+<img src="screenshots/supabase-database.png" alt="Supabase Database">
 
 ### Google Sheets Opportunity Intelligence
-![Google Sheets](screenshots/google-sheets.png)
+
+<img src="screenshots/google-sheets.png" alt="Google Sheets">
 
 ### Project Architecture
-![GovCon AI Architecture](screenshots/architecture.png)
+
+<img src="screenshots/architecture.png" alt="GovCon AI Architecture">
 
 
 
