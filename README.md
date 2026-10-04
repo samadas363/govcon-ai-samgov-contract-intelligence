@@ -108,3 +108,16 @@ The system is designed to:
                            |
                            v
                     Email Alert
+## Project Screenshots
+
+### SAM.gov / Python Data Ingestion
+![SAM.gov Python](pythn%20ss%20for%20SAM.AI)
+
+### Supabase / PostgreSQL Database
+![Supabase Database](supabase%20ss.PNG)
+
+### Google Sheets Opportunity Intelligence
+![Google Sheets](google%20sheet%20SS.PNG)
+
+
+
