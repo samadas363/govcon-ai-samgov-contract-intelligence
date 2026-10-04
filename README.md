@@ -233,3 +233,20 @@ The complete pipeline can be executed with:
 
 ```bash
 python run_pipeline.py
+Opportunities found: 150
+Skipped awarded/closed: 63
+New opportunities: 1
+Existing opportunities updated: 86
+
+Awards API calls: 4
+Awards returned/saved: 400 / 400
+
+Opportunities scored: 102
+
+BID: 0
+REVIEW: 73
+NO-BID: 29
+
+Average score: 42.21
+
+Google Sheets rows written: 102
