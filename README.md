@@ -338,7 +338,6 @@ This project demonstrates practical experience with:
 ## Author
 **Abdul Samad**
 
-Government Contracting | Data Analytics | Python | SQL | Power BI | n8n | AI Automation
-**Abdul Samad**
+
 
 Government Contracting | Data Analytics | Python | SQL | Power BI | n8n | AI Automation
